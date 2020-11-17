@@ -1,4 +1,4 @@
-# meditation
+# CCtracker
 
 A new Flutter project.
 
